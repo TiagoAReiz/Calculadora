@@ -121,6 +121,5 @@ function ponto() {
 
 function igual() {
   input.value = eval(input.value)
-  input1.value = eval(input.value)
-
+  input1.value = input.value
 }
