@@ -133,12 +133,12 @@ main {
   max-width: 230px;
 }
 .bb {
-  font-size: 22px;
+  font-size: 15px;
   width: 30px;
 }
 .gg {
   width: 50px;
-  font-size: 22px;
+  font-size: 15px;
 }
 input:disabled{
   max-width:150px;
