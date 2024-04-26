@@ -132,12 +132,13 @@ button:active {
 main {
   max-width: 230px;
 }
-button {
+.bb {
   font-size: 30px;
   width: 40px;
 }
 .gg {
   width: 67px;
+  font-size: 30px;
 }
 input:disabled{
   max-width:200px;
