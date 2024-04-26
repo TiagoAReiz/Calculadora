@@ -130,25 +130,27 @@ button:active {
 
 @media screen and (max-width: 1300px) {
 main {
-  max-width: 230px;
+  max-width: 200px;
 }
 .bb {
   font-size: 15px;
-  width: 30px;
+  width: 25px;
+  border-radius: 5px;
 }
 .gg {
-  width: 50px;
+  width: 40px;
   font-size: 15px;
+  border-radius: 5px;
 }
 input:disabled{
   max-width:150px;
   max-height: 50px;
 }
 #botoes {
-  max-width:160px;
+  max-width:140px;
 }
 #operad { 
-  max-width: 50px};
+  max-width: 30px};
 
 }
 #input1 {
