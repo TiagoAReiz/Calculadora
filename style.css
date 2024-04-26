@@ -160,7 +160,6 @@ input:disabled{
   max-width: 30px};
   #input1:disabled {
     font-size: 40px;
-    background-color: rgb(190, 0, 0);
   }
   #clear {
     max-width:135px;
