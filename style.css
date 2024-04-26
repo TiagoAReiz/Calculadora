@@ -133,16 +133,16 @@ main {
   max-width: 230px;
 }
 .bb {
-  font-size: 30px;
-  width: 40px;
+  font-size: 22px;
+  width: 30px;
 }
 .gg {
-  width: 67px;
-  font-size: 30px;
+  width: 50px;
+  font-size: 22px;
 }
 input:disabled{
-  max-width:200px;
-  max-height: 70px;
+  max-width:150px;
+  max-height: 50px;
 }
 #botoes {
   max-width:160px;
