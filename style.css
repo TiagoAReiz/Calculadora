@@ -84,7 +84,7 @@ main {
   box-shadow: 3px 3px 5px rgb(0, 0, 0);
   text-align: center;
   margin: 135px auto;
-  max-width: 300px;
+  max-width: 310px;
   padding: 20px;
   border-radius: 30px;
   border: 2px solid black;
@@ -110,7 +110,43 @@ button:active {
 .gg {
   width: 97px;
 }
+#operad {
+  
+  max-width: 80px;
+  display: inline-block;
+  
+}
+#botoes {
+  
+  max-width: 218px;
+  display: inline-block;
+  
+  
+  
+}
 
 
 
 
+@media screen and (max-width: 1020px) {
+main {
+  max-width: 230px;
+}
+button {
+  font-size: 30px;
+  width: 40px;
+}
+.gg {
+  width: 67px;
+}
+input:disabled{
+  max-width:200px;
+  max-height: 70px;
+}
+#botoes {
+  max-width:160px;
+}
+#operad { 
+  max-width: 50px};
+
+}
